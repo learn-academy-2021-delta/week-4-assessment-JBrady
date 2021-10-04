@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Implicit return means the dev doesn't have to type the return keyword because Ruby already knows it's suppossed to return something.
 
-  Researched answer: The return keyword doesnt have to be explicitly called in Ruby (but can be). An implicit return is when return isn’t explicitly called within a method. Ruby is smart enough to know when a method is suppossed to be returning as true.
+  Researched answer: The return keyword doesnt have to be explicitly called in Ruby (but can be). An implicit return is when return isn’t explicitly called within a method. Ruby is smart enough to know when a method is suppossed to be returning as truthy.
 
 
 

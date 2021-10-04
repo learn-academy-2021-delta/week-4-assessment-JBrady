@@ -52,7 +52,7 @@ const theShuffler = (array) => {
     // let combinedArray = [...array, ...newArray] /* using spread operator to combine the arrays */
     return array
 }
-// The test passes with this code. I thought I would have to do something more complicated, 
+// Success - The test passes with this code. I thought I would have to do something more complicated, 
 // but this does indeed fulfill the requirements of removing the first item and shuffling the remaining contents.
 
 
@@ -100,7 +100,7 @@ const lowestHighest = (array) => {
     }
     return array
 }
-// Can't figure this one out. I keep getting RangeError: Maximum call stack size exceeded
+// Fail - Can't figure this one out. I keep getting RangeError: Maximum call stack size exceeded
 
 
 // --------------------3) Create a function that takes in two arrays as arguments and returns one array with no duplicate values. STRETCH: Use the spread operator to pass in a dynamic number of arguments.
